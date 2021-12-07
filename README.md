@@ -60,8 +60,8 @@ For starters click on this button
 * [Updates](https://telegram.dog/CrowdXStrike)
 * [Support](https://telegram.dog/CrowdStrikeChat)
 
-## Thanks to Lovely Boy
-*   [LOVELY Boy](https://telegram.dog/Horimaya)
+## Thanks To My Lovely Friend💕
+[![Lovely Boy](https://img.shields.io/badge/Lovely%20Boy-pink?style=for-the-badge&logo=appveyor)](https://t.me/Horimaya)
 
 
 
