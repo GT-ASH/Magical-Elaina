@@ -4,13 +4,13 @@
 
 # Elaina Group BoT
 
-### Telegram Group
+### Support Group
 <p align="left">
-<a href="https://t.me/CrowdXStrike" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
+<a href="https://t.me/CrowdStrikeChat" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
 
-### Bot And Channel 
-* Bot Link:  <a href="http://t.me/ElainaxRobot" alt=" Elaina "> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-ElainaxRobot-blue" /> </a>
-* Support Channel: <a  href="https://t.me/" alt="Help Centre Logs"> <img  src="https://img.shields.io/badge/%F0%9F%92%A1-Ameliagroupbot%20Update%20Channel-9cf" /> </a>
+### Bot And Update Channel 
+* Bot Link:  <a href="http://t.me/ElainaxRobot" alt=" Elaina "> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-Magical Elaina-blue" /> </a>
+* Support Channel: <a  href="https://t.me/" alt="Help Centre Logs"> <img  src="https://img.shields.io/badge/%F0%9F%92%A1-Elaina%20Updates-9cf" /> </a>
 
 ### Creating your own modules.
 
