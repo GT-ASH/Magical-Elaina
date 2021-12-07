@@ -1,16 +1,16 @@
 <p align="center">
-  <img src="https://telegra.ph/file/329647a798cccb101aecf.jpg">
+  <img src="https://telegra.ph/file/4e1e19c70b5da7ad9cecf.jpg">
 </p>
 
-# Amelia Group BoT
+# Elaina Group BoT
 
 ### Telegram Group
 <p align="left">
-<a href="https://t.me/warbotzsupport" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
+<a href="https://t.me/CrowdXStrike" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
 
 ### Bot And Channel 
-* Bot Link:  <a href="http://t.me/AmeliaGroup_bot" alt=" Amelia "> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-AmeliaRobot-blue" /> </a>
-* Support Channel: <a  href="https://t.me/warbotz" alt="Help Centre Logs"> <img  src="https://img.shields.io/badge/%F0%9F%92%A1-Ameliagroupbot%20Update%20Channel-9cf" /> </a>
+* Bot Link:  <a href="http://t.me/ElainaxRobot" alt=" Elaina "> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-ElainaxRobot-blue" /> </a>
+* Support Channel: <a  href="https://t.me/" alt="Help Centre Logs"> <img  src="https://img.shields.io/badge/%F0%9F%92%A1-Ameliagroupbot%20Update%20Channel-9cf" /> </a>
 
 ### Creating your own modules.
 
