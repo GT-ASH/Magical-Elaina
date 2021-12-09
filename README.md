@@ -6,11 +6,11 @@
   <img src="https://telegra.ph/file/4e1e19c70b5da7ad9cecf.jpg">
 </p>
 
-<p align="center">
-  <a href="https://www.python.org">
-    <img src="http://ForTheBadge.com/images/badges/made-with-python.svg">
+#### You Can Easy To Find And Use Me🤗
 
-    
+<p align='left'>
+ <a href="https://telegram.dog/ElainaxRobot"><img src="https://img.shields.io/badge/Magical%20Elaina-2CA5E0?style=for-the-badge&amp;logo=telegram&amp;logoColor=yellow" alt="Find on Telegram"></a></br></br>
+  
 ## Easy To Deploy
 
 <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/war-legend/AmeliaRobot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
